@@ -124,33 +124,65 @@ Brainly is a powerful knowledge management application that helps you organize, 
 - Protected routes
 - Secure content sharing
 
-## �� API Documentation
+## 📋 Complete Features List
 
-### Swagger UI Integration
-The API documentation is available at `/api-docs` when running the backend server. The documentation is powered by Swagger UI, providing:
+### Authentication & User Management
+- User registration with email and password
+- Secure login system
+- JWT-based authentication
+- User profile management
 
-- **Interactive API Documentation**: Test API endpoints directly from the browser
-- **Request/Response Examples**: View sample requests and responses for each endpoint
-- **Authentication Details**: Documentation for JWT authentication flow
-- **Schema Definitions**: View data models and their properties
-- **API Versioning**: Track API changes and versions
-- **Endpoint Categories**:
-  - Authentication endpoints
-  - User management endpoints
-  - Content management endpoints
-  - Sharing endpoints
-  - Profile management endpoints
+### Content Management
+- Create and store content cards
+- Rich text support for content
+- Content editing and deletion
+- Content organization system
+- Automatic date and time tracking
+- Chronological content view
 
-### API Features
-- RESTful API design
-- JSON response format
-- HTTP status codes
+### Search & Filtering
+- Real-time search functionality
+- Filter content by type (Twitter, YouTube, Document)
+- Quick access to recent content
+
+### UI/UX Features
+- Modern, responsive design
+- Dark/Light mode toggle
+- Intuitive navigation
+- Sidebar for quick access
+- Mobile-friendly interface
+- Loading states
 - Error handling
-- Rate limiting
-- Request validation
-- Response caching
-- API versioning
-- CORS support
+- Success notifications
+
+### Sharing Capabilities
+- Generate shareable links
+- View shared content
+- Public/Private content options
+
+### Security Features
+- Password hashing
+- Protected routes
+- Secure content sharing
+- JWT token management
+
+### Additional Features
+- Real-time updates
+- Cross-platform compatibility
+- Performance optimization
+
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👥 Authors
+- Danish Shariff - Initial work
+
+## 🙏 Acknowledgments
+- Thanks to all contributors who have helped shape this project
+- Inspired by the concept of a "Second Brain" for knowledge management 
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -172,41 +204,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Secure login system
 - JWT-based authentication
 - User profile management
-- Profile customization options
-- Password reset functionality
-- Email verification system
-- Session management
-- Remember me functionality
-- Auto-logout on inactivity
 
 ### Content Management
 - Create and store content cards
 - Rich text support for content
-- Content categorization
 - Content editing and deletion
 - Content organization system
 - Automatic date and time tracking
-- Content creation history
-- Last modified timestamps
-- Content sharing timestamps
 - Chronological content view
-- Content versioning
-- Content archiving
-- Content tagging system
-- Content search by tags
-- Content export functionality
 
 ### Search & Filtering
 - Real-time search functionality
-- Filter content by type (Twitter, YouTube, etc.)
-- Advanced search capabilities
+- Filter content by type (Twitter, YouTube, Document)
 - Quick access to recent content
-- Smart content categorization
-- Search history
-- Search suggestions
-- Filter combinations
-- Sort by date, type, popularity
-- Search within content
 
 ### UI/UX Features
 - Modern, responsive design
@@ -217,59 +227,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Loading states
 - Error handling
 - Success notifications
-- Toast messages
-- Skeleton loading
-- Infinite scroll
-- Pull to refresh
-- Keyboard shortcuts
-- Accessibility features
 
 ### Sharing Capabilities
 - Generate shareable links
-- Public/Private content options
-- Custom sharing settings
 - View shared content
-- Link preview functionality
-- Share to social media
-- Share via email
-- Share with specific users
-- Share expiration
-- Share analytics
-- Share permissions
-- Share history
+- Public/Private content options
 
 ### Security Features
 - Password hashing
 - Protected routes
 - Secure content sharing
 - JWT token management
-- Session management
-- Rate limiting
-- Input sanitization
-- XSS protection
-- CSRF protection
-- Data encryption
-- Secure headers
-- Audit logging
 
 ### Additional Features
 - Real-time updates
-- Content analytics
-- User activity tracking
 - Cross-platform compatibility
-- Performance optimization
-- Offline support
-- Data backup
-- Export/Import functionality
-- API rate limiting
-- Error tracking
-- Performance monitoring
-- Browser notifications
-- Progressive Web App (PWA) support
-- Multi-language support
-- Keyboard shortcuts
-- Custom themes
-- Data visualization
-- Activity feed
-- User preferences
-- System notifications 
+- Performance optimization 
