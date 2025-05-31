@@ -124,7 +124,7 @@ Brainly is a powerful knowledge management application that helps you organize, 
 - Protected routes
 - Secure content sharing
 
-## �� API Documentation
+## API Documentation
 
 ### Swagger UI Integration
 The API documentation is available at `/api-docs` when running the backend server. The documentation is powered by Swagger UI, providing:
