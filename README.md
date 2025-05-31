@@ -6,38 +6,39 @@ Brainly is a powerful knowledge management application that helps you organize, 
 
 ### 1. User Authentication
 - **Sign Up**: Create your account with email and password
-  ![Sign Up Feature](path-to-signup-screenshot.png)
+  <img src="docs/images/signup.png" alt="Sign Up Feature" width="600" height="400" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 - **Sign In**: Secure login to access your personal dashboard
-  ![Sign In Feature](path-to-signin-screenshot.png)
+  <img src="docs/images/signin.png" alt="Sign In Feature" width="600" height="400" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 ### 2. Modern UI with Dark Mode Support
 - **Light Mode**: Clean and professional interface
-  ![Light Mode UI](path-to-light-mode-screenshot.png)
+  <img src="docs/images/light-mode.png" alt="Light Mode UI" width="800" height="500" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 - **Dark Mode**: Easy on the eyes with dark theme support
-  ![Dark Mode UI](path-to-dark-mode-screenshot.png)
+  <img src="docs/images/dark-mode.png" alt="Dark Mode UI" width="800" height="500" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 ### 3. Content Management
 - **Add Content**: Easily add new content cards with rich text support
-  ![Add Content Feature](path-to-add-content-screenshot.png)
+  <img src="docs/images/add-content.png" alt="Add Content Feature" width="700" height="450" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+
 - **Content Timeline**: Automatic date and time tracking for all content
-- **Content History**: View when content was created, modified, or shared
+  <!-- Timeline screenshot will be added later -->
 
 ### 4. Smart Filtering
 - **Sidebar Filters**: Filter content by type (Twitter, YouTube, etc.)
-  ![Filter Feature](path-to-filter-screenshot.png)
+  <img src="docs/images/sidebar-filter.png" alt="Filter Feature" width="600" height="400" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 ### 5. Content Sharing
 - **Share Content**: Generate shareable links for your content
-  ![Share Feature](path-to-share-screenshot.png)
+  <img src="docs/images/content-sharing.png" alt="Share Feature" width="600" height="400" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 - **Shared View**: How shared content appears to others
-  ![Shared View](path-to-shared-view-screenshot.png)
+  <img src="docs/images/shared-view.png" alt="Shared View" width="800" height="500" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 ### 6. User Profile
 - **Profile Card**: View and manage your profile information
-  ![User Profile](path-to-profile-screenshot.png)
+  <img src="docs/images/profile-card.png" alt="User Profile" width="600" height="400" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
 ## 🛠️ Local Development Setup
 
