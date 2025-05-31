@@ -118,7 +118,35 @@ Brainly is a powerful knowledge management application that helps you organize, 
 - Cors for cross-origin requests
 - Dotenv for environment variables
 
-## 🔒 Security Features
+## API Documentation
+
+### Swagger UI Integration
+The API documentation is available at `/api-docs` when running the backend server. The documentation is powered by Swagger UI, providing:
+
+- **Interactive API Documentation**: Test API endpoints directly from the browser
+- **Request/Response Examples**: View sample requests and responses for each endpoint
+- **Authentication Details**: Documentation for JWT authentication flow
+- **Schema Definitions**: View data models and their properties
+- **API Versioning**: Track API changes and versions
+- **Endpoint Categories**:
+  - Authentication endpoints
+  - User management endpoints
+  - Content management endpoints
+  - Sharing endpoints
+  - Profile management endpoints
+
+### API Features
+- RESTful API design
+- JSON response format
+- HTTP status codes
+- Error handling
+- Rate limiting
+- Request validation
+- Response caching
+- API versioning
+- CORS support
+
+## �� Security Features
 - JWT-based authentication
 - Password hashing
 - Protected routes
